@@ -27,6 +27,26 @@ Secondary (Class X) | CGPA: 9.85 / 10.0
 
 ## Projects
 
+**Excel Superstore Sales Dashboard** — Advanced Excel, Pivot Tables, Slicers | [Link](https://github.com/Abhijayshah/Excel-Superstore-Sales-Dashboard)  
+- Analyzed 10K+ sales rows using advanced Excel functions including VLOOKUP, HLOOKUP, & Pivot Tables.
+- Identified a 35% profit variance across different categories and regions, enabling targeted strategic adjustments.
+- Performed rigorous data cleaning (duplicate removal) and built interactive dashboards with dynamic slicers.
+
+**Google Sheets Marketing ROI Tracker** — Google Sheets, Apps Script, QUERY | [Link](https://github.com/Abhijayshah/Google-Sheets-Marketing-ROI-Tracker)  
+- Consolidated cross-platform campaign data using IMPORTRANGE and complex QUERY functions.
+- Uncovered insights showing a 28% higher ROI from email marketing compared to social media channels.
+- Implemented Apps Script automation to fetch live data, ensuring real-time dashboard updates.
+
+**Python HR Churn Analysis** — Python, Pandas, OpenPyXL | [Link](https://github.com/Abhijayshah/Python-HR-Churn-Analysis)  
+- Built a data pipeline using Pandas to merge and pivot over 15K employee records for attrition analysis.
+- Provided segment-based insights that highlighted areas for a potential 25% reduction in attrition risk.
+- Automated the reporting process by exporting processed data directly to Excel dashboards using OpenPyXL.
+
+**Retail Sales Automation Pipeline** — Python, ETL, Automation | [Link](https://github.com/Abhijayshah/Retail-Sales-Automation-Pipeline)  
+- Developed Python scripts to automate repetitive Excel/Sheets workflows, replacing manual data entry.
+- Achieved 80% faster data processing speeds compared to previous manual Excel methods.
+- Utilized efficient Pandas merging techniques to simulate and speed up complex VLOOKUP operations.
+
 **Rately — Store Rating Platform & AI Chatbot** — MERN Stack, Tailwind CSS, RBAC, OpenRouter API and Gemini API | [Link](https://rately-ten.vercel.app/)  
 - Architected a scalable platform featuring Role-Based Access Control (RBAC) to manage distinct permissions for Admins, Owners, & Users.
 - Integrated a context-aware AI Chatbot via OpenRouter API to assist users, enhancing platform engagement & support navigation.
