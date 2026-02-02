@@ -18,10 +18,16 @@ Secondary (Class X) | CGPA: 9.85 / 10.0
 ---
 
 ## Technical Skills
-
+**MERN stack (Skills):**  
 **Languages & Frontend:** C++, Python, JavaScript (ES6+), SQL, React.js, Tailwind CSS, Context API  
 **Backend & Databases:** Node.js, Express.js, MongoDB (Mongoose), PostgreSQL, REST APIs, WebSockets  
 **Tools, Cloud & Security:** Git, Docker, Postman, AWS (Basic), JWT, RBAC, OpenRouter/Gemini API
+
+**Data Analyst (Skills):**  
+**Data Analysis & Excel:** Pivot Tables, VLOOKUP, INDEX-MATCH, Power Query, Google Sheets (QUERY Function), ETL  
+**Python ecosystem:** Pandas, NumPy, OpenPyXL, Jupyter Notebooks, Data Cleaning & Preprocessing  
+**SQL & Databases:** PostgreSQL, MySQL, Complex JOINs, Window Functions, Aggregations, Normalization  
+**Visualization & Tools:** Power BI, Excel Dashboards, Chart.js, Git/GitHub, Postman (API Testing)
 
 ---
 
