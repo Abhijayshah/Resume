@@ -1,6 +1,88 @@
 # ABHIJAY KUMAR SHAH
 
-+91 78790 28316 | [abhijayshah74@gmail.com](mailto:abhijayshah74@gmail.com) | [linkedin.com/in/abhijayshah](https://www.linkedin.com/in/abhijayshah/) | [github.com/Abhijayshah](https://github.com/Abhijayshah)
+[![Email](https://img.shields.io/badge/Email-abhijayshah74%40gmail.com-red?style=flat-square&logo=gmail)](mailto:abhijayshah74@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijay%20Shah-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhijayshah/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhijay%20Shah-black?style=flat-square&logo=github)](https://github.com/Abhijayshah)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2078790%2028316-green?style=flat-square&logo=whatsapp)](https://wa.me/917879028316)
+
+> **Aspiring Solutions Consultant** with a strong foundation in Computer Science and Entrepreneurship. Skilled in bridging the gap between technical complexity and business value. Proven ability to identify market gaps, design user-centric solutions, and communicate technical concepts to non-technical stakeholders. Eager to apply SaaS understanding and problem-solving skills to the Presales team.
+
+---
+## Education
+
+**Vellore Institute of Technology** — B.Tech in Computer Science & Engineering  
+Jul 2026 (Expected) | CGPA: 8.44 / 10.0
+
+**DAV Public School, Dudhichua** — Senior Secondary (Class XII)  
+2019–2021 | CGPA: 9.20 / 10.0
+
+**DAV Public School, Surya Vihar** — Secondary (Class X)  
+2018–2019 | CGPA: 9.85 / 10.0
+
+---
+
+## Functional & Technical Skills
+
+**Functional Competencies:**  
+Market Research, Customer Requirement Gathering, Product Demos, Solution Mapping
+
+**Business Concepts:**  
+SaaS Fundamentals, CRM Workflows, Lead Generation Funnels, B2C/B2B Sales Strategy
+
+**Generative AI & Visual Strategy:**  
+Advanced Prompt Engineering (Text-to-Image/Video), Rapid Brand Asset Creation (Posters/Animations), Visual Storytelling for Presentations
+
+**Technical Foundation:**  
+Python, SQL, MERN Stack (Ability to understand & explain tech architecture to clients)
+
+**Tools:**  
+Microsoft Office (PowerPoint/Excel), Google Workspace, Canva, AI Tools (ChatGPT, Midjourney, RunwayML)
+
+---
+
+## Key Projects & Entrepreneurial Initiatives
+
+**GetRoomSingrauli.in — Hyper-Local Marketplace**  
+Market Entry, Vendor Partnerships | [Live Link](https://abhijayshah.github.io/GetRoomSingrauli.in/)
+- **Market Opportunity:** Identified an untapped revenue potential of 1 Lakh/month in the local budget accommodation sector by analyzing daily transit footfall.
+- **Product Strategy:** Launched a digital platform connecting local vendors with travelers, effectively solving a Supply-Demand gap in the unorganized market.
+- **Lead Generation:** Currently optimizing the digital sales funnel and initiating visibility partnerships with local aggregators like Justdial.
+- **User Experience:** Designed a "Click-to-Call" interface that reduced lead response time by 90%, specifically catering to non-tech-savvy users.
+
+**Rately — Customer Feedback & Rating SaaS**  
+SaaS Logic, Analytics, AI Integration | [Live Link](https://rately-ten.vercel.app/)
+- **SaaS Architecture:** Designed a platform with Role-Based Access Control (RBAC), managing distinct workflows for Admins (Business Owners) vs. Users.
+- **Solutioning:** Integrated a context-aware AI Chatbot to automate customer support, demonstrating how technology can solve business efficiency problems.
+- **Data Insights:** Built interactive dashboards to visualize feedback trends (NPS/CSAT), similar to reporting features found in enterprise CRM tools.
+- **Scalability:** Architected the backend to handle multi-tenant data securely, ensuring data isolation between different business owners.
+
+**Comfortable Stay — Hotel & Restaurant Alliance**  
+Business Logic, Operational Efficiency | [Live Link](https://abhijayshah.github.io/ComForTable_And_Stay/)
+- **Business Logic:** Designed a room allocation engine that automates eligibility checks based on customer spending tiers (Waiting Room vs. AC Beds).
+- **Operational Efficiency:** Implemented a QR-based check-in workflow to reduce front-desk friction, improving the overall customer onboarding experience.
+- **Market Fit:** Targeted budget travelers and PGs, directly addressing the "affordability" pain point in the local hospitality sector.
+- **Future Roadmap:** Planned a subscription model for vendor listings, demonstrating foresight into potential monetization strategies.
+
+---
+
+## Experience & Leadership
+
+**CatCatchCode** — Jul 2025 – Present  
+Founder & Team Lead — Ed-Tech Initiative | [Link](https://catcatchcode.online)
+- **Communication Skills:** Translated complex technical concepts into 100+ simplified video modules, proving the ability to explain products to a non-expert audience.
+- **Leadership:** Led a 5-member agile team to execute a content roadmap, ensuring consistent delivery and brand growth.
+
+**Satsang Vachan Satsang Seva** — Sept 2025 – Present  
+Co-Founder & Lead Strategist — Digital Preservation | [Link](https://satsangvachansatsangseva.online)
+- **Strategic Planning:** Spearheading a massive digital preservation initiative to digitize 50+ years of archival literature for a global audience of 200M+.
+- **Innovation:** Integrating AI-assisted tools to transform long-form text into concise visual media (Posters/Shorts) for better engagement.
+- **Project Management:** Managing the full content lifecycle and a distributed creative team to ensure high-quality delivery.
+
+---
+
+## Certifications
+
+**MERN Full Stack Certificate** — Apr 2025 | [Link](https://certifications.example.com)
 
 ---
 
@@ -16,6 +98,7 @@ Senior Secondary (Class XII) | CGPA: 9.20 / 10.0
 Secondary (Class X) | CGPA: 9.85 / 10.0
 
 ---
+
 
 ## Technical Skills
 **MERN stack (Skills):**  
